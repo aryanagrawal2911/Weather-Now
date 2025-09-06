@@ -1,0 +1,282 @@
+{
+	"0":{
+		"day":{
+			"description":"Sunny",
+			"image":"http://openweathermap.org/img/wn/01d@2x.png"
+		},
+		"night":{
+			"description":"Clear",
+			"image":"http://openweathermap.org/img/wn/01n@2x.png"
+		}
+	},
+	"1":{
+		"day":{
+			"description":"Mainly Sunny",
+			"image":"http://openweathermap.org/img/wn/01d@2x.png"
+		},
+		"night":{
+			"description":"Mainly Clear",
+			"image":"http://openweathermap.org/img/wn/01n@2x.png"
+		}
+	},
+	"2":{
+		"day":{
+			"description":"Partly Cloudy",
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBU0eWoFbhiOIwj7Od5g9495IPaCJ4NUUig&s"
+		},
+		"night":{
+			"description":"Partly Cloudy",
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdBU0eWoFbhiOIwj7Od5g9495IPaCJ4NUUig&s"
+		}
+	},
+	"3":{
+		"day":{
+			"description":"Cloudy",
+			"image":"https://static.vecteezy.com/system/resources/previews/035/264/739/non_2x/cloudy-weather-icon-3d-neture-blue-design-for-element-free-png.png"
+		},
+		"night":{
+			"description":"Cloudy",
+			"image":"https://static.vecteezy.com/system/resources/previews/035/264/739/non_2x/cloudy-weather-icon-3d-neture-blue-design-for-element-free-png.png"
+		}
+	},
+	"45":{
+		"day":{
+			"description":"Foggy",
+			"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgx06-UlqAFLSYP1N9hY3sWB5RXkUsFSVmQ&s"
+		},
+		"night":{
+			"description":"Foggy",
+			"image":"http://openweathermap.org/img/wn/50n@2x.png"
+		}
+	},
+	"48":{
+		"day":{
+			"description":"Rime Fog",
+			"image":"http://openweathermap.org/img/wn/50d@2x.png"
+		},
+		"night":{
+			"description":"Rime Fog",
+			"image":"http://openweathermap.org/img/wn/50n@2x.png"
+		}
+	},
+	"51":{
+		"day":{
+			"description":"Light Drizzle",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Light Drizzle",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"53":{
+		"day":{
+			"description":"Drizzle",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Drizzle",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"55":{
+		"day":{
+			"description":"Heavy Drizzle",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Heavy Drizzle",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"56":{
+		"day":{
+			"description":"Light Freezing Drizzle",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Light Freezing Drizzle",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"57":{
+		"day":{
+			"description":"Freezing Drizzle",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Freezing Drizzle",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"61":{
+		"day":{
+			"description":"Light Rain",
+			"image":"http://openweathermap.org/img/wn/10d@2x.png"
+		},
+		"night":{
+			"description":"Light Rain",
+			"image":"http://openweathermap.org/img/wn/10n@2x.png"
+		}
+	},
+	"63":{
+		"day":{
+			"description":"Rain",
+			"image":"http://openweathermap.org/img/wn/10d@2x.png"
+		},
+		"night":{
+			"description":"Rain",
+			"image":"http://openweathermap.org/img/wn/10n@2x.png"
+		}
+	},
+	"65":{
+		"day":{
+			"description":"Heavy Rain",
+			"image":"http://openweathermap.org/img/wn/10d@2x.png"
+		},
+		"night":{
+			"description":"Heavy Rain",
+			"image":"http://openweathermap.org/img/wn/10n@2x.png"
+		}
+	},
+	"66":{
+		"day":{
+			"description":"Light Freezing Rain",
+			"image":"http://openweathermap.org/img/wn/10d@2x.png"
+		},
+		"night":{
+			"description":"Light Freezing Rain",
+			"image":"http://openweathermap.org/img/wn/10n@2x.png"
+		}
+	},
+	"67":{
+		"day":{
+			"description":"Freezing Rain",
+			"image":"http://openweathermap.org/img/wn/10d@2x.png"
+		},
+		"night":{
+			"description":"Freezing Rain",
+			"image":"http://openweathermap.org/img/wn/10n@2x.png"
+		}
+	},
+	"71":{
+		"day":{
+			"description":"Light Snow",
+			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+		},
+		"night":{
+			"description":"Light Snow",
+			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+		}
+	},
+	"73":{
+		"day":{
+			"description":"Snow",
+			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+		},
+		"night":{
+			"description":"Snow",
+			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+		}
+	},
+	"75":{
+		"day":{
+			"description":"Heavy Snow",
+			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+		},
+		"night":{
+			"description":"Heavy Snow",
+			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+		}
+	},
+	"77":{
+		"day":{
+			"description":"Snow Grains",
+			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+		},
+		"night":{
+			"description":"Snow Grains",
+			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+		}
+	},
+	"80":{
+		"day":{
+			"description":"Light Showers",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Light Showers",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"81":{
+		"day":{
+			"description":"Showers",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Showers",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"82":{
+		"day":{
+			"description":"Heavy Showers",
+			"image":"http://openweathermap.org/img/wn/09d@2x.png"
+		},
+		"night":{
+			"description":"Heavy Showers",
+			"image":"http://openweathermap.org/img/wn/09n@2x.png"
+		}
+	},
+	"85":{
+		"day":{
+			"description":"Light Snow Showers",
+			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+		},
+		"night":{
+			"description":"Light Snow Showers",
+			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+		}
+	},
+	"86":{
+		"day":{
+			"description":"Snow Showers",
+			"image":"http://openweathermap.org/img/wn/13d@2x.png"
+		},
+		"night":{
+			"description":"Snow Showers",
+			"image":"http://openweathermap.org/img/wn/13n@2x.png"
+		}
+	},
+	"95":{
+		"day":{
+			"description":"Thunderstorm",
+			"image":"data:image/png;base64,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"
+		},
+		"night":{
+			"description":"Thunderstorm",
+			"image":"data:image/png;base64,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"
+		}
+	},
+	"96":{
+		"day":{
+			"description":"Light Thunderstorms With Hail",
+			"image":"http://openweathermap.org/img/wn/11d@2x.png"
+		},
+		"night":{
+			"description":"Light Thunderstorms With Hail",
+			"image":"http://openweathermap.org/img/wn/11n@2x.png"
+		}
+	},
+	"99":{
+		"day":{
+			"description":"Thunderstorm With Hail",
+			"image":"http://openweathermap.org/img/wn/11d@2x.png"
+		},
+		"night":{
+			"description":"Thunderstorm With Hail",
+			"image":"http://openweathermap.org/img/wn/11n@2x.png"
+		}
+	}
+}

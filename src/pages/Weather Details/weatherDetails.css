@@ -1,0 +1,75 @@
+/* Reset body */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* Page container */
+.weather-details-page {
+  width: 100%;
+  background: #f0f0f0;
+  padding-top: 3.75rem;
+  box-sizing: border-box;
+}
+
+/* Container for content */
+.weather-details-container {
+  max-width: 25rem;
+  width: 90%;
+  margin: 0.3rem auto;
+  padding: 0.125rem;
+  text-align: center;
+}
+
+.weather-details-container h1{
+  font-size: 3rem;
+}
+
+/* Current weather card */
+.weather-info {
+  border-radius: 0.75rem;
+  padding: 0.375rem;
+  margin-bottom: 2rem;
+}
+
+/* 7-Day forecast*/
+.daily-forecast {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 1.5rem;
+  padding: 1rem;
+  width: 100vw;
+  box-sizing: border-box;
+  margin-left: calc(-50vw + 50%);
+  margin-bottom: 2rem;
+}
+
+.daily-card {
+  min-width: 10rem;
+  box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, 0.1);
+  flex-shrink: 0;
+  background: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 1rem;
+  transition: transform 0.2s;
+}
+
+.daily-card p {
+  margin: 0.8rem 0;
+}
+
+/* Loading and error messages */
+.loading,
+.error {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
