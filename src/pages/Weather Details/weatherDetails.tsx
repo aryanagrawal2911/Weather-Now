@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Navbar from "../../components/Navbar/Navbar";
 import { getWeather, type WeatherData } from "../../api/weather";
-import "./WeatherDetails.css";
+import "./weatherDetails.css";
 
 export default function WeatherDetails() {
   const { cityName } = useParams<{ cityName: string }>();

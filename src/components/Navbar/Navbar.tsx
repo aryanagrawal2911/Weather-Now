@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import "./navbar.css";
+import "./Navbar.css";
 
 export default function Navbar() {
   const [query, setQuery] = useState("");
